@@ -15,6 +15,6 @@ hello gitee!
 hello gitee!
 hello gitee!
 hello gitee!  master test
-hello gitee!
+hello gitee!  hot-fix test
 
 hot-fix complete
